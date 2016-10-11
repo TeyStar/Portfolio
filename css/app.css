@@ -1,0 +1,9 @@
+body{
+	background: #0f0f0f;
+}
+
+.my-name{
+	color: red;
+	text-transform: uppercase;
+	letter-spacing: 10px;
+}
