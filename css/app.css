@@ -1,9 +1,24 @@
 body{
-	background: #0f0f0f;
+	background: #ffffaa;
+	color: #ffffaa;
 }
 
 .my-name{
 	color: red;
 	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+h1{
+	font-size: 55px;
 	letter-spacing: 10px;
+	padding-top: 100px;
+}
+
+h3{
+	letter-spacing: 5px;
+}
+
+#headband{
+	background-color: #0f0f0f;
 }
