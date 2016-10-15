@@ -1,12 +1,13 @@
 body{
-	background: #ffffaa;
-	color: #ffffaa;
+	color: #FFBB77;
+	background: url("../assets/back.jpg") no-repeat center center fixed;
+	background-size: cover;
+	position: relative;
 }
 
 .my-name{
-	color: red;
+	color: #FF7F9F;
 	text-transform: uppercase;
-	letter-spacing: 5px;
 }
 
 h1{
@@ -30,15 +31,23 @@ h3{
 }
 
 #headband{
-	background-color: #0f0f0f;
+	background-color: rgba(15, 15, 15, .80);
 }
 
 #meat{
-	background-color:#7F2113;
+	background-color: rgba(74, 113, 205, .80);
 }
 
 .title{
 	font-weight: bold;
 	Letter-spacing: 2px;
 	font-size: smaller;
+}
+
+.padbot{
+	padding-bottom: 25px;
+}
+
+.padtop{
+	padding-top: 25px;
 }
