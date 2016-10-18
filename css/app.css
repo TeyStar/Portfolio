@@ -51,3 +51,28 @@ h3{
 .padtop{
 	padding-top: 25px;
 }
+
+#recbutt{
+	font-weight: bolder;
+	font-size: large;
+}
+
+#center{
+    width: 50%;
+    height: 0%;
+}
+
+.footertext{
+	font-size: 90%;
+}
+
+h4{
+	margin-top: 0px;
+	height: 2%;
+}
+
+.cr{
+	font-size: 85%;
+	text-align: center;
+	padding-bottom: 10px;
+}
