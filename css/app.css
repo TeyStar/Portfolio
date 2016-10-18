@@ -76,3 +76,21 @@ h4{
 	text-align: center;
 	padding-bottom: 10px;
 }
+
+.item:hover{
+	background-color: white;
+}
+
+a{
+	font-weight: bold;
+	color: #AAFFAA;
+    transition: color 0.1s linear;
+}
+
+a:hover{
+	color: #FFFF65;
+	transition: color 0.1s linear;
+}
+ a:active{
+ 	color: #FF6565;
+ }
